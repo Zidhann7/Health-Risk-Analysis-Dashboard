@@ -1,4 +1,5 @@
 # 🫀 Smoking Health Risk Analysis Dashboard
+![Smoking Health Risk Analysis Dashboard](smoking_health_risk.svg)
 
 ## 📌 Project Overview
 
